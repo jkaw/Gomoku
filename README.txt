@@ -1,1 +1,1 @@
-I will email a complete version with README and PDF soon.
+A pretty broken Gomoku client. It's supposed to play Gomoku with some intelligence. Due to an error somewhere it will bug out many times when sending a move. Uses alpha beta pruning to decide the best move available. Could use a better evaultion of moves.
